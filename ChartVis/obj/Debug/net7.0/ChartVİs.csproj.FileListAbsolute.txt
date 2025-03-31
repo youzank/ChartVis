@@ -1,0 +1,6 @@
+C:\Users\asus\source\repos\ChartVis\ChartVis\obj\Debug\net7.0\ChartVİs.csproj.AssemblyReference.cache
+C:\Users\asus\source\repos\ChartVis\ChartVis\obj\Debug\net7.0\ChartVİs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asus\source\repos\ChartVis\ChartVis\obj\Debug\net7.0\ChartVİs.AssemblyInfoInputs.cache
+C:\Users\asus\source\repos\ChartVis\ChartVis\obj\Debug\net7.0\ChartVİs.AssemblyInfo.cs
+C:\Users\asus\source\repos\ChartVis\ChartVis\obj\Debug\net7.0\ChartVİs.csproj.CoreCompileInputs.cache
+C:\Users\asus\source\repos\ChartVis\ChartVis\obj\Debug\net7.0\ChartVİs.MvcApplicationPartsAssemblyInfo.cache

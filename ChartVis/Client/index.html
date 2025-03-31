@@ -1,0 +1,41 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Chart Visualization</title>
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <!-- POP-UP (MODAL) -->
+    <div id="popup" class="modal">
+        <div class="modal-content">
+            <h2>Veritabanı Bilgileri</h2>
+            <input type="text" id="dbHost" placeholder="Host" value="localhost"><br>
+            <input type="text" id="dbPort" placeholder="Port" value="5432"><br>
+            <input type="text" id="dbUser" placeholder="Kullanıcı Adı" value="postgres"><br>
+            <input type="password" id="dbPass" placeholder="Şifre" value="1234"><br>
+            <input type="text" id="dbName" placeholder="Veritabanı Adı" value="postgres"><br>
+            <input type="text" id="dbObject" placeholder="Fonksiyon / View / Table Adı" value="GetSalesData()"><br>
+
+
+            <h2>Grafik Tipini Seçin</h2>
+            <select id="chartTypeSelect">
+                <option value="bar">Bar Chart</option>
+                <option value="line">Line Chart</option>
+                <option value="radar">Radar Chart</option>
+            </select>
+            <br><br>
+            <button id="confirmSelection">Veriyi Çek ve Grafiği Oluştur</button>
+        </div>
+    </div>
+
+    <!-- Ana Sayfa -->
+    <h1>Chart Visualization</h1>
+    <canvas id="myChart"></canvas>
+    <button id="rebuildChart">Grafiği Yeniden Oluştur</button>
+    <script src="app.js"></script>
+</body>
+</html>

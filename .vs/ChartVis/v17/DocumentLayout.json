@@ -1,0 +1,155 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\asus\\source\\repos\\ChartVis\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{392A6649-6A91-47B7-8CDB-1BA8275525E6}|ChartVis\\ChartVis.csproj|c:\\users\\asus\\source\\repos\\chartvis\\chartvis\\client\\app.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{392A6649-6A91-47B7-8CDB-1BA8275525E6}|ChartVis\\ChartVis.csproj|solutionrelative:chartvis\\client\\app.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{392A6649-6A91-47B7-8CDB-1BA8275525E6}|ChartVis\\ChartVis.csproj|c:\\users\\asus\\source\\repos\\chartvis\\chartvis\\client\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{392A6649-6A91-47B7-8CDB-1BA8275525E6}|ChartVis\\ChartVis.csproj|solutionrelative:chartvis\\client\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{392A6649-6A91-47B7-8CDB-1BA8275525E6}|ChartVis\\ChartVis.csproj|c:\\users\\asus\\source\\repos\\chartvis\\chartvis\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{392A6649-6A91-47B7-8CDB-1BA8275525E6}|ChartVis\\ChartVis.csproj|solutionrelative:chartvis\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{392A6649-6A91-47B7-8CDB-1BA8275525E6}|ChartVis\\ChartVis.csproj|c:\\users\\asus\\source\\repos\\chartvis\\chartvis\\data\\sales.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{392A6649-6A91-47B7-8CDB-1BA8275525E6}|ChartVis\\ChartVis.csproj|solutionrelative:chartvis\\data\\sales.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{392A6649-6A91-47B7-8CDB-1BA8275525E6}|ChartVis\\ChartVis.csproj|c:\\users\\asus\\source\\repos\\chartvis\\chartvis\\client\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{392A6649-6A91-47B7-8CDB-1BA8275525E6}|ChartVis\\ChartVis.csproj|solutionrelative:chartvis\\client\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{392A6649-6A91-47B7-8CDB-1BA8275525E6}|ChartVis\\ChartVis.csproj|c:\\users\\asus\\source\\repos\\chartvis\\chartvis\\controllers\\chartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{392A6649-6A91-47B7-8CDB-1BA8275525E6}|ChartVis\\ChartVis.csproj|solutionrelative:chartvis\\controllers\\chartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{392A6649-6A91-47B7-8CDB-1BA8275525E6}|ChartVis\\ChartVis.csproj|c:\\users\\asus\\source\\repos\\chartvis\\chartvis\\data\\chartdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{392A6649-6A91-47B7-8CDB-1BA8275525E6}|ChartVis\\ChartVis.csproj|solutionrelative:chartvis\\data\\chartdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{392A6649-6A91-47B7-8CDB-1BA8275525E6}|ChartVis\\ChartVis.csproj|c:\\users\\asus\\source\\repos\\chartvis\\chartvis\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{392A6649-6A91-47B7-8CDB-1BA8275525E6}|ChartVis\\ChartVis.csproj|solutionrelative:chartvis\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "app.js",
+              "DocumentMoniker": "C:\\Users\\asus\\source\\repos\\ChartVis\\ChartVis\\Client\\app.js",
+              "RelativeDocumentMoniker": "ChartVis\\Client\\app.js",
+              "ToolTip": "C:\\Users\\asus\\source\\repos\\ChartVis\\ChartVis\\Client\\app.js",
+              "RelativeToolTip": "ChartVis\\Client\\app.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-03-29T15:13:26.222Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ChartDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\source\\repos\\ChartVis\\ChartVis\\Data\\ChartDbContext.cs",
+              "RelativeDocumentMoniker": "ChartVis\\Data\\ChartDbContext.cs",
+              "ToolTip": "C:\\Users\\asus\\source\\repos\\ChartVis\\ChartVis\\Data\\ChartDbContext.cs",
+              "RelativeToolTip": "ChartVis\\Data\\ChartDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T22:44:30.109Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ChartController.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\source\\repos\\ChartVis\\ChartVis\\Controllers\\ChartController.cs",
+              "RelativeDocumentMoniker": "ChartVis\\Controllers\\ChartController.cs",
+              "ToolTip": "C:\\Users\\asus\\source\\repos\\ChartVis\\ChartVis\\Controllers\\ChartController.cs",
+              "RelativeToolTip": "ChartVis\\Controllers\\ChartController.cs",
+              "ViewState": "AQIAAEEAAAAAAAAAAAA8wAUAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T22:43:20.867Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "index.html",
+              "DocumentMoniker": "C:\\Users\\asus\\source\\repos\\ChartVis\\ChartVis\\Client\\index.html",
+              "RelativeDocumentMoniker": "ChartVis\\Client\\index.html",
+              "ToolTip": "C:\\Users\\asus\\source\\repos\\ChartVis\\ChartVis\\Client\\index.html",
+              "RelativeToolTip": "ChartVis\\Client\\index.html",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAAB0AAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-03-29T15:13:40.054Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "style.css",
+              "DocumentMoniker": "C:\\Users\\asus\\source\\repos\\ChartVis\\ChartVis\\Client\\style.css",
+              "RelativeDocumentMoniker": "ChartVis\\Client\\style.css",
+              "ToolTip": "C:\\Users\\asus\\source\\repos\\ChartVis\\ChartVis\\Client\\style.css",
+              "RelativeToolTip": "ChartVis\\Client\\style.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-03-29T15:13:52.874Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\source\\repos\\ChartVis\\ChartVis\\Program.cs",
+              "RelativeDocumentMoniker": "ChartVis\\Program.cs",
+              "ToolTip": "C:\\Users\\asus\\source\\repos\\ChartVis\\ChartVis\\Program.cs",
+              "RelativeToolTip": "ChartVis\\Program.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T12:44:27.549Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Sales.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\source\\repos\\ChartVis\\ChartVis\\Data\\Sales.cs",
+              "RelativeDocumentMoniker": "ChartVis\\Data\\Sales.cs",
+              "ToolTip": "C:\\Users\\asus\\source\\repos\\ChartVis\\ChartVis\\Data\\Sales.cs",
+              "RelativeToolTip": "ChartVis\\Data\\Sales.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T22:44:47.947Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\asus\\source\\repos\\ChartVis\\ChartVis\\appsettings.json",
+              "RelativeDocumentMoniker": "ChartVis\\appsettings.json",
+              "ToolTip": "C:\\Users\\asus\\source\\repos\\ChartVis\\ChartVis\\appsettings.json",
+              "RelativeToolTip": "ChartVis\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAABmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-28T23:29:32.878Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
